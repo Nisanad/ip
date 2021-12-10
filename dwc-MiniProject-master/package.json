@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "4.17.1",
+    "framer-motion": "^4.1.5"
+  },
+  "name": "my-awesome-package",
+  "version": "1.0.0",
+  "main": "question git repository: https://github.com/yarnpkg/example-yarn-package",
+  "author": "Yarn Contributor",
+  "license": "MIT"
+}
